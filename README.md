@@ -1,6 +1,6 @@
-# Odoo Installation Script for Ubuntu Server 23.10
+# Odoo 17 Installation Script for Ubuntu Server 23.10
 
-This script automates the installation process of latest Odoo version , a powerful and customizable open-source business management platform, on Ubuntu server 23.10. Whether you're setting up Odoo for development, testing, or production, this script streamlines the installation steps, saving you time and ensuring a consistent setup.
+This script automates the installation process of Odoo 17 version , a powerful and customizable open-source business management platform, on Ubuntu server 23.10. Whether you're setting up Odoo for development, testing, or production, this script streamlines the installation steps, saving you time and ensuring a consistent setup.
 
 ## Features:
 
@@ -16,7 +16,7 @@ This script automates the installation process of latest Odoo version , a powerf
 ## Usage:
 
 1. Clone this repository to your Ubuntu server.
-2. Adjust configuration settings in the script if needed.
+2. Adjust configuration settings in the script if needed, by default the DB password is **HeyJude453!**.
 3. Make the script executable (`chmod +x install_odoo.sh`).
 4. Run the script (`./install_odoo.sh`) and follow the prompts.
 
